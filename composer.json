@@ -1,0 +1,9 @@
+{
+    "name": "castlegate/cgit-wp-external-link-checker",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Castlegate\\ExternalLinkChecker\\": "classes"
+        }
+    }
+}
