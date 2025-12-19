@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace Castlegate\ExternalLinkChecker;
 
-class SubMenuPage
+final class SubMenuPage
 {
     /**
      * Parent menu page slug
